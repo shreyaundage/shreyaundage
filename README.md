@@ -1,8 +1,8 @@
-Hi there 👋 I'm Shreya
+Heyy there, I'm Shreya
 
-A Computer Science Student at Bharati Vidyapeeth
+A CSE Undergrad at Bharati Vidyapeeth
 
-Exploring the world of coding, design & open source. I enjoy building things that feel useful, creative, and genuinely fun to work on.
+Kinda exploring some coding, little designing & soon open source. I enjoy building things that feel useful, creative, and GENUIENLY fun to work on.
 
 🛠️ Tools & Tech:
 
