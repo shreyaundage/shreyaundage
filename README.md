@@ -8,8 +8,8 @@ Kinda exploring some coding, little designing & soon open source. I enjoy buildi
 
 HTML, CSS, JavaScript
 MySQL
-Python, Java (DSA), C/C++
-Git & GitHub
+Python, Java, C
+Git 
 
 
 ## 🌐 Socials:
